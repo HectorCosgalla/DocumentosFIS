@@ -5,6 +5,6 @@ Se sale del equipo Alejandro
 
 **16/Nov/19**
 Se acordó hacer el prototipo del taller dividiendo el trabajo para tener un mejor rastreo de el mismo, la división quedaria asi:
-Concentrado de información(Guión): Ricardo y Victor
-Presentación(Powerpoint): Miguel y Hector
-QA: Ricardo y Victor
+Concentrado de información(Guión)(valor: 2): Ricardo y Victor
+Presentación(Powerpoint)(Valor: 3): Miguel y Hector
+QA(Valor: 1): Ricardo y Victor
