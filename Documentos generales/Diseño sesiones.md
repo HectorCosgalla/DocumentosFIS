@@ -44,7 +44,7 @@
 | **Cierre** | 10 min.<br>  El ponente realizará preguntas al público acerca del tema tratado, para evaluar el entendimiento del mismo.<br>  10 min.<br>Los asistentes podrán preguntarle cualquier cosa al ponente, dentro del tema tratado. |
 
 **Recursos y materiales**  
-[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/Documentos%20generales/Diapositivas%20Sesiones/sesion%201.pptx)
+[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/blob/master/Documentos%20generales/Diapositivas%20Sesiones/sesion%201.pptx)
 
 ### Plan de sesión 2
 
@@ -75,7 +75,7 @@
 | **Cierre** |  15 min.<br> Se realizará una serie de preguntas al equipo el cual dará también una retroalimentación del tema tratado y los asistentes podrán compartir sus conclusiones personales de la sesión. |
 
 **Recursos y materiales**  
-[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/Documentos%20generales/Diapositivas%20Sesiones/sesion%202.pptx)
+[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/blob/master/Documentos%20generales/Diapositivas%20Sesiones/sesion%202.pptx)
 
 ### Plan de sesión 3
 
@@ -106,7 +106,7 @@
 | **Cierre** |  20 min.<br> Los asistentes leerán los resúmenes y elegirán el que mejor les haya parecido. Se explicará por qué está bien redactado, luego se explicarán los errores comunes al realizar un resumen. |
 
 **Recursos y materiales**  
-[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/Documentos%20generales/Diapositivas%20Sesiones/sesion%203.pptx)
+[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/blob/master/Documentos%20generales/Diapositivas%20Sesiones/sesion%203.pptx)
 
 ### Plan de sesión 4
 
@@ -137,4 +137,4 @@
 | **Cierre** | 10 min.<br> Se entregarán hojas con recomendaciones generales para los equipos. |
 
 **Recursos y materiales**  
-[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/Documentos%20generales/Diapositivas%20Sesiones/sesion%204.pptx)
+[Diapositivas](https://github.com/HectorCosgalla/DocumentosFIS/blob/master/Documentos%20generales/Diapositivas%20Sesiones/sesion%204.pptx)
