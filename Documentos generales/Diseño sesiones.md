@@ -17,8 +17,8 @@
 ## Formato
 ### Plan de sesión 1
 
+|**Lugar**|	FMAT|
 |:---:|:---:|
-| **Lugar** |	FMAT|
 | **Fecha** | [Fecha]|
 | **Tiempo estimado** |	60 min.|
 | **Publico objetivo** |	LIS |
