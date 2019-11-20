@@ -28,3 +28,15 @@
 > 1.	Dar una introducción general sobre las softskills y que entiendan la importancia de estas.
 
 **Desagregado de contenidos**
+|**Tema**|**Subtema**|
+|:---:|:---:|
+|1.	Introducción a softskills. |1.1 Softskills en la industria de la ingeniería de software.|
+
+### Resumen de la 1era sesión
+
+**Estrategia**
+|**Descripción**|	**Tiempo**|
+|:---:|:---:|
+|**Inicio**|10 min.   El ponente da una introducción general al tema de las softskills, su impacto en la vida cotidiana y en el futuro laboral de las personas.|
+|**Desarrollo**|30 min.  Los asistentes podrán compartir sus opiniones y experiencias con el ponente y los demás asistentes.|
+|**Cierre**|10 min.  El ponente realizará preguntas al público acerca del tema tratado, para evaluar el entendimiento del mismo.  10 min.  Los asistentes podrán preguntarle cualquier cosa al ponente, dentro del tema tratado.|
